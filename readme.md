@@ -4,5 +4,8 @@
 4. git log / git log --oneline
 5. git push [rep_link] [branch_name]
 6. git reset [file_name] - убирает файл из add
-7. git diff / git diff [file_name] - позволяет просматрировать измененные строки
-8. git reset --hard - возвращает всё до прежнего сохранения
+7. git diff / git diff [file_name] - позволяет просматрировать измененные с троки
+8. git reset --hard - возвращает всё до прежнего сохранения 
+9. git branch - просмотр текущей ветки
+10. git branch [branch_name] - создание ветки
+11. git checkout - переход на другую ветку
