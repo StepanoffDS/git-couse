@@ -1,7 +1,7 @@
 1. git status
 2. git add - добавляет файлы в stage
 3. git commit -m ""
-4. git log / git log --oneline
+4. git log / git log --oneline - просмотр изменений
 5. git push [rep_link] [branch_name]
 6. git reset [file_name] - убирает файл из add
 7. git diff / git diff [file_name] - позволяет просматрировать измененные с троки
