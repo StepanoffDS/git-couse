@@ -9,3 +9,5 @@
 9. git branch - просмотр текущей ветки
 10. git branch [branch_name] - создание ветки
 11. git checkout - переход на другую ветку
+12. git pull [rep_link] [branch_name] - забирает данные из удаленного репозитория в локальный
+13. git merge [branch_name] - слияние веток
