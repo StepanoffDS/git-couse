@@ -11,3 +11,4 @@
 11. git checkout - переход на другую ветку
 12. git pull [rep_link] [branch_name] - забирает данные из удаленного репозитория в локальный
 13. git merge [branch_name] - слияние веток
+14. git branch -d [branch_name] - удаление ветки
